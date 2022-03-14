@@ -6,3 +6,4 @@ var kalimat2 = 'Gunung bromo tak akan mampu menggambarkan besarnya cintaku padam
 
 console.log(changedWord('mencintai', 'membenci', kalimat1));
 console.log(changedWord('bromo', 'semeru', kalimat2));
+// --!ini hanya untuk membanfingkan--//

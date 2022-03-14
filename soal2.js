@@ -16,3 +16,6 @@ console.log(checkTypeNumber("3"));
 console.log(checkTypeNumber({}));
 console.log(checkTypeNumber([]));
 console.log(checkTypeNumber());
+
+
+// --lalallala--
